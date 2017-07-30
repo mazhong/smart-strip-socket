@@ -52,7 +52,7 @@ typedef enum {
 
 
 //#define   deviceMac    @"7c:dd:90:9c:05:1A"
-
+/* 丢了一个文件  */
 @interface ViewController ()<smartStripSocketDelegate>
 
 
